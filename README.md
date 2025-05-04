@@ -21,13 +21,15 @@ In the repository the dataset has been split into test and train folders, each w
 # Model Results
 
 ## Model 0 Loss and Accuracy Curve
+![](https://github.com/TYW02/PyTorch_mask_detector/blob/master/images/model0_curve.png)
 
 
 ## Model 1 Loss and Accuracy Curve
-
+![](https://github.com/TYW02/PyTorch_mask_detector/blob/master/images/model1_curve.png)
 
 # Findings
 Model 0 is currently overfitting
+![](https://github.com/TYW02/PyTorch_mask_detector/blob/master/images/both_model_compare.png)
 
 
 
